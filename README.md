@@ -1,3 +1,3 @@
 # PemrogramanWeb
-UTS Pemrograman Web(Pembuatan Game) dan UAS Pemrograman Web(Pembuatan Program Buku) 
-Link Uts : http://k3517056.indoweb.xyz/uts
+UTS Pemrograman Web(Pembuatan Game) 
+Link UTS : http://k3517056.byethost3.com/uts/
